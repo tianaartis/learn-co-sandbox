@@ -1,0 +1,6 @@
+foods= ["pizza","sweet","fish",sushi"]
+foods.each do |food|
+  if food == "sweet"
+    puts"dpnt spoil your lunch"
+  end
+  puts food 
